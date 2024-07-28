@@ -26,7 +26,7 @@ class Shin extends StatefulWidget {
             Padding(
               padding: EdgeInsets.all(15),
               child: CircleAvatar(
-                backgroundImage: AssetImage("images/pikachu.jpg"),
+                backgroundImage: AssetImage("images/pikachu-1.jpg"),
                 radius: 100,
               ),
             ),
